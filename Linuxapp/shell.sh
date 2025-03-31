@@ -5,7 +5,7 @@ COPYRIGHT_FILE="$2"
 add_copyright() {
     local file="$1"
     local temp_file=$(mktemp)
-    
+     
     cat "$COPYRIGHT_FILE" > "$temp_file"
     echo "" >> "$temp_file"
     cat "$file" >> "$temp_file"
@@ -17,7 +17,10 @@ add_copyright() {
 rename_extensions() {
     find "$SOURCE_DIR" -name "*.cpp" | while read file; do
         mv "$file" "${file%.cpp}.cc"
-    done
+    done  
+
+
+    
     
     find "$SOURCE_DIR" -name "*.h" | while read file; do
         mv "$file" "${file%.h}.hpp"
