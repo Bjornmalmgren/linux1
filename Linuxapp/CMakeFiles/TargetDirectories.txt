@@ -1,0 +1,3 @@
+C:/Users/bjmall-3-local/Documents/GitHub/linux1/Linuxapp/CMakeFiles/CMakeTarget.dir
+C:/Users/bjmall-3-local/Documents/GitHub/linux1/Linuxapp/CMakeFiles/ALL_BUILD.dir
+C:/Users/bjmall-3-local/Documents/GitHub/linux1/Linuxapp/CMakeFiles/ZERO_CHECK.dir

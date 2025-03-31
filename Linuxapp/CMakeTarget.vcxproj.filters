@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\linux1\Linuxapp\Linuxapp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\linux1\Linuxapp\Linuxapp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bjmall-3-local\Documents\GitHub\linux1\Linuxapp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C734BAB5-8950-3A00-B173-7F98F5F26D3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5606484E-029D-378C-B96F-9BEBCFA67867}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
